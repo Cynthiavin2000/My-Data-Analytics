@@ -1,20 +1,17 @@
-# Hi there, I'm Dr. Vivian Edema 👋
+# Hi there, I'm Cynthia Nweke 👋
 
-## Data Analyst | Business Intelligence Analyst | Data Analytics Instructor | Machine Learning Enthusiast
+## Data Analyst | Business Intelligence Analyst | With an interest in Data Science and Machine Learning
 
-Welcome to my GitHub! I'm passionate about transforming raw data into meaningful insights that support better business decisions. I enjoy solving real-world business problems using data analytics, statistics, machine learning and interactive dashboards.
+Welcome to my GitHub! I'm passionate about transforming raw data into meaningful insights that support better business decisions. I enjoy solving real-world business problems using data analytics, statistics, machine learning and interactive dashboards. I have developed practical skills in Excel, SQL, Python, R and Power BI, Tableau, Data Governance, Ethics and AI through hands-on projects.
 
-Alongside industry experience, I also teach Data Analytics, helping aspiring analysts develop practical skills in Excel, SQL, Python, R and Power BI through hands-on projects.
-
+Alongside industry experience, I am also interested in Data Science, AI and Machine Learning. 
 ---
 
 # 👩‍💻 About Me
 
-* 🎓 PhD in Computing & Technology
-* 🎓 MSc in Mobile Telecommunications
-* 👩‍🏫 Data Analytics Instructor
+* 🎓 BSc in Insurance and Actuarial Science
+* 🎓 MSc in International Business Management
 * 💻 Data Analytics Professional
-* 💻 Previous Software Developer
 * 📊 Passionate about Business Intelligence, Data Visualisation and Predictive Analytics
 * 🤖 Exploring Artificial Intelligence and Machine Learning for business decision-making
 * 🌱 Always learning new tools, technologies and best practices in Data Analytics
@@ -208,7 +205,7 @@ Developed an interactive Power BI dashboard to analyse e-commerce customer behav
 
 ### Financial Risk Analysis • Predictive Analytics • Business Intelligence
 
-Completed a comprehensive end-to-end finance analytics project demonstrating the complete data analytics lifecycle using a realistic financial services case study. The project covers data ingestion, Python data cleaning, relational database design, SQL analysis, feature engineering, exploratory data analysis, statistical analysis, predictive modelling, interactive Power BI dashboard development and business recommendations to support strategic financial decision-making.
+Working on a comprehensive end-to-end finance analytics project demonstrating the complete data analytics lifecycle using a realistic financial services case study. The project covers data ingestion, Python data cleaning, relational database design, SQL analysis, feature engineering, exploratory data analysis, statistical analysis, predictive modelling, interactive Power BI dashboard development and business recommendations to support strategic financial decision-making.
 
 **Skills Demonstrated**
 
@@ -242,7 +239,7 @@ Completed a comprehensive end-to-end finance analytics project demonstrating the
 I'm currently expanding my knowledge in:
 
 * Artificial Intelligence for Data Analytics
-* Advanced Machine Learning
+* Machine Learning
 * Business Intelligence
 * Cloud Analytics
 * Data Engineering Fundamentals
@@ -278,7 +275,6 @@ My repositories include projects covering:
 * R Programming
 * Power BI Dashboards
 * Tableau Dashboards
-* Machine Learning
 * Business Intelligence
 * Finance Analytics
 * Healthcare Analytics
